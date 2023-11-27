@@ -1,0 +1,42 @@
+.products__show {
+  width: 60%;
+  background-color: rgb(50, 1, 32);
+  color: #321313;
+  padding: 5rem 1rem;
+}
+
+table {
+  border-collapse: collapse;
+  background-color: #ffc36f;
+}
+
+table th,
+td {
+  border: 2px solid #321313;
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+
+tr {
+  padding: 0.5rem 1rem;
+}
+
+.remove__all {
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+}
+
+.remove__all button {
+  border: none;
+  padding: 0.8rem 4rem;
+  font-weight: 600;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+
+.heading__none {
+  background-color: #ffc36f;
+  color: #321313;
+  padding: 0.5rem 1rem;
+}
